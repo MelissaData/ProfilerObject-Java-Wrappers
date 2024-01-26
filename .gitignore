@@ -1,0 +1,12 @@
+[Mm]elissa[Uu]pdater/
+
+mdProfiler.dll
+libmdProfiler.so
+
+*.h
+*.lib
+*.obj
+*.hash
+*.zip
+*.class
+*.jar
