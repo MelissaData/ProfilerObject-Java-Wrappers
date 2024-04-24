@@ -14,7 +14,7 @@ while [ $# -gt 0 ] ; do
 done
 
 ########################## Config ###########################
-RELEASE_VERSION='2024.Q1'
+RELEASE_VERSION='2024.Q2'
 
 ProjectPath=$(pwd)
 
@@ -46,9 +46,9 @@ Config_Type3="INTERFACE"
 Com_FileName="mdProfiler_JavaCode.zip"
 Com_ReleaseVersion=$RELEASE_VERSION
 Com_OS="ANY"
-Com_Compiler="ANY"
+Com_Compiler="JAVA"
 Com_Architecture="ANY"
-Com_Type="DATA"
+Com_Type="INTERFACE"
 
 ######################### Functions #########################
 DownloadFiles() 
