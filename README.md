@@ -13,7 +13,7 @@ For further details, please visit:
 ## Tested Environments
 - Windows 10 64-bit Java 19, Microsoft Visual C++ 19.34, Powershell 5.1
 - Ubuntu Linux 20.04.04 LTS 64-bit Java 20, gcc 9.4.0 
-- Melissa Profiler Object for 2024-Q3
+- Melissa Profiler Object for 2024-Q4
 - Wrapper file(s) have not changed since 2024-Q1
 
 ## Getting Started
@@ -21,8 +21,8 @@ These instructions will get you a copy of the wrappers needed to run the Java Pr
 
 ### Download this project
 ```
-$ git clone https://github.com/MelissaData/ProfilerObject-Java-Wrappers
-$ cd ProfilerObject-Java-Wrappers
+git clone https://github.com/MelissaData/ProfilerObject-Java-Wrappers
+cd ProfilerObject-Java-Wrappers
 ```
 
 ### Copy wrappers to your project folder
@@ -80,8 +80,8 @@ Parameter(s)
 - -license (optional): a license string to run the powershell script
 
 ```
-$ .\BuildProfilerJavaWrapper.ps1
-$ .\BuildProfilerJavaWrapper.ps1 -license "<your_license_string>"
+.\BuildProfilerJavaWrapper.ps1
+.\BuildProfilerJavaWrapper.ps1 -license "<your_license_string>"
 ```
 
 ## Linux
@@ -149,8 +149,8 @@ Parameter(s)
 - --license (optional): a license string to run the bash script
 
 ```
-$ ./BuildProfilerJavaWrapper.sh
-$ ./BuildProfilerJavaWrapper.sh --license "<your_license_string>"
+./BuildProfilerJavaWrapper.sh
+./BuildProfilerJavaWrapper.sh --license "<your_license_string>"
 ```
 
 ----------------------------------------
