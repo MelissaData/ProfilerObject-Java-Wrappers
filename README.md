@@ -21,8 +21,8 @@ These instructions will get you a copy of the wrappers needed to run the Java Pr
 
 ### Download this project
 ```
-git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/java/melissaprofilerobjectjavawrappers.git
-cd melissaprofilerobjectjavawrappers
+git clone https://github.com/MelissaData/ProfilerObject-Java-Wrappers
+cd ProfilerObject-Java-Wrappers
 ```
 
 ### Copy wrappers to your project folder
